@@ -1,0 +1,95 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Icons/001-atm.png</file>
+    <file>Icons/001-mail.png</file>
+    <file>Icons/002-bank.png</file>
+    <file>Icons/002-suitcase.png</file>
+    <file>Icons/003-bar-chart.png</file>
+    <file>Icons/003-budget.png</file>
+    <file>Icons/004-bar-chart-1.png</file>
+    <file>Icons/004-calculator.png</file>
+    <file>Icons/005-bar-chart-2.png</file>
+    <file>Icons/005-check.png</file>
+    <file>Icons/006-call.png</file>
+    <file>Icons/006-credit card.png</file>
+    <file>Icons/007-dollar.png</file>
+    <file>Icons/007-id-card.png</file>
+    <file>Icons/008-computer.png</file>
+    <file>Icons/008-transfer.png</file>
+    <file>Icons/009-conversation.png</file>
+    <file>Icons/009-exchange.png</file>
+    <file>Icons/010-correct.png</file>
+    <file>Icons/010-ico.png</file>
+    <file>Icons/011-calendar.png</file>
+    <file>Icons/011-insurance.png</file>
+    <file>Icons/012-debate.png</file>
+    <file>Icons/012-interest rate.png</file>
+    <file>Icons/013-diploma.png</file>
+    <file>Icons/013-online banking.png</file>
+    <file>Icons/014-donut-chart.png</file>
+    <file>Icons/014-online banking.png</file>
+    <file>Icons/015-contact.png</file>
+    <file>Icons/015-password.png</file>
+    <file>Icons/016-exchange.png</file>
+    <file>Icons/016-received.png</file>
+    <file>Icons/017-money bag.png</file>
+    <file>Icons/017-send.png</file>
+    <file>Icons/018-female.png</file>
+    <file>Icons/018-money.png</file>
+    <file>Icons/019-money.png</file>
+    <file>Icons/019-woman.png</file>
+    <file>Icons/020-folders.png</file>
+    <file>Icons/020-monitoring.png</file>
+    <file>Icons/021-file.png</file>
+    <file>Icons/021-payment.png</file>
+    <file>Icons/022-files.png</file>
+    <file>Icons/022-resume.png</file>
+    <file>Icons/023-id-card-1.png</file>
+    <file>Icons/023-phone.png</file>
+    <file>Icons/024-loudspeaker.png</file>
+    <file>Icons/024-profit.png</file>
+    <file>Icons/025-male.png</file>
+    <file>Icons/025-safe box.png</file>
+    <file>Icons/026-male-1.png</file>
+    <file>Icons/026-secure.png</file>
+    <file>Icons/027-money.png</file>
+    <file>Icons/027-statistics.png</file>
+    <file>Icons/028-notifications.png</file>
+    <file>Icons/028-tax.png</file>
+    <file>Icons/029-pie-chart.png</file>
+    <file>Icons/029-transfer.png</file>
+    <file>Icons/030-presentation.png</file>
+    <file>Icons/030-wallet.png</file>
+    <file>Icons/031-presentation-1.png</file>
+    <file>Icons/032-presentation-2.png</file>
+    <file>Icons/033-qa.png</file>
+    <file>Icons/034-read.png</file>
+    <file>Icons/035-team.png</file>
+    <file>Icons/036-workflow.png</file>
+    <file>Icons/21039145971578889035-128.png</file>
+    <file>Icons/add-icon--icon-search-engine-1.png</file>
+    <file>Icons/app icon.png</file>
+    <file>Icons/bank.png</file>
+    <file>Icons/banking.png</file>
+    <file>Icons/blue-person-icon-blue-person-icon-115629039821nthr4gtiu.png</file>
+    <file>Icons/Capture.PNG</file>
+    <file>Icons/check.png</file>
+    <file>Icons/copy.png</file>
+    <file>Icons/delete.png</file>
+    <file>Icons/diskette (1).png</file>
+    <file>Icons/diskette (2).png</file>
+    <file>Icons/diskette.png</file>
+    <file>Icons/edit.png</file>
+    <file>Icons/img_415067.png</file>
+    <file>Icons/ledgerimage.PNG</file>
+    <file>Icons/menu.png</file>
+    <file>Icons/multiply.png</file>
+    <file>Icons/plus-icon-21726.png</file>
+    <file>Icons/printer.png</file>
+    <file>Icons/refresh.png</file>
+    <file>Icons/rupee.png</file>
+    <file>Icons/search.png</file>
+    <file>Icons/send.png</file>
+    <file>Icons/view.png</file>
+  </qresource>
+</RCC>
